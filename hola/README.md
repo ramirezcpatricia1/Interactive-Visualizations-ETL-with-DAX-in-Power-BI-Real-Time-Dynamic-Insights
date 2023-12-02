@@ -1,3 +1,0 @@
-# Interactive Visualizations & ETL with DAX in Power BI: Real-Time Dynamic Insights
-I leveraged DAX language in conjuction with the powerful Power BI tool to execute o robust ETL Process and Productive Interactive visualization. I succecedin crafting a uniqie experience by enabling click interactions or any graph, trigrerring dinamyc filters that seamlessly sync across all visualization. 
-Discover how the blend of data analysis and real-time visualizacion can revolutionize the comprenhension of business insights! Additionally. I ' ll be pubilishing my visualization weekly, sharing knowledge and honing my visualization skills. I am passionate about data!. https://github.com/ramirezcpatricia1
